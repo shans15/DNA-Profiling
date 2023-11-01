@@ -1,0 +1,24 @@
+*********************************************************
+ourvector<i> stats:
+ # of vectors created:   11
+ # of elements inserted: 30
+ # of elements accessed: 80
+*********************************************************
+*********************************************************
+ourvector<8DNAStore> stats:
+ # of vectors created:   1
+ # of elements inserted: 4
+ # of elements accessed: 141
+*********************************************************
+*********************************************************
+ourvector<c> stats:
+ # of vectors created:   11
+ # of elements inserted: 209
+ # of elements accessed: 2695
+*********************************************************
+*********************************************************
+ourvector<9ourvectorIcE> stats:
+ # of vectors created:   1
+ # of elements inserted: 3
+ # of elements accessed: 825
+*********************************************************
